@@ -34,3 +34,6 @@ Since version 1.4.0, the command was using embeds since then. However, starting 
 
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>The new third design of the version command.</p></figcaption></figure>
 
+## The akinator game
+
+Since Dodo-Bot v1 for aoi.js version was actively worked on, it had a game called akinator where you could play the well known game but on discord without any problems. Sadly, it no longer works properly later sometime in 2023 and has been eventually removed in Dodo-Bot v2 beta 5 builds.
